@@ -1,18 +1,142 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm a Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, and Front-End Development**. I enjoy building practical solutions that combine clean user experiences with intelligent technologies.<br><br>My experience includes developing web applications, desktop applications, and AI-based projects while continuously expanding my knowledge through internships, research programs, and global learning initiatives. I believe in continuous learning, problem-solving, and applying technology to create meaningful impact.<br><br>### 💡 What I Work With<br><br>* 🤖 Artificial Intelligence & Machine Learning<br>* 🌐 Front-End Development (HTML, CSS, JavaScript, React)<br>* 💻 Python, C#, C++, SQL<br>* 📊 Data Analysis & Research<br>* 🔍 Problem Solving & Software Development<br><br>### 🌱 Currently Exploring<br><br>* Large Language Models (LLMs)<br>* Generative AI<br>* AI-Powered Applications<br>* Research & AI Workflows<br><br>I enjoy collaborating on impactful projects, contributing to open-source initiatives, and continuously improving my technical and problem-solving skills.
+<h1 align="center">Hi 👋, I'm Joti Lohana</h1>
 
+<h3 align="center">
+Computer Science Student • AI & Machine Learning Enthusiast • Front-End Developer
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joti-lohana-6471a62a6/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCEIrv-hhrD53CKqI7iNPeHw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jotilohana789@gmail.com) 
+<p align="center">
+Building intelligent applications with AI, Machine Learning, and modern web technologies.
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jotilohana21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jotilohana21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jotilohana21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Front-End+Developer;Python+%7C+React+%7C+C%23+Developer;Open+Source+Learner;Always+Learning+New+Technologies+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jotilohana21&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=jotilohana21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+I'm a Computer Science student passionate about building intelligent software solutions through Artificial Intelligence, Machine Learning, and Front-End Development.
+
+I enjoy solving real-world problems by combining modern technologies with clean, user-friendly experiences. My interests span AI research, machine learning, web development, and software engineering.
+
+I continuously improve my skills through internships, research programs, certifications, and hands-on projects. I'm always eager to learn emerging technologies and collaborate on impactful projects.
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Large Language Models (LLMs)
+- 🌐 Front-End Development
+- 💻 Python, C#, React
+- 📊 AI Research & Data Analysis
+- 🚀 Open Source Contributions
+
+---
+
+# 🏆 Achievements
+
+- 🎓 Computer Science Student
+- 🤖 Machine Learning Engineering Intern
+- 🌍 Selected for International AI & Leadership Programs
+- 📑 Research Enthusiast
+- 🏅 Multiple AI & Technology Certifications
+- 💡 Passionate about Building Real-World Solutions
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/joti-lohana-6471a62a6/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:jotilohana789@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://youtube.com/@UCEIrv-hhrD53CKqI7iNPeHw">
+<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,python,cpp,c,cs,dotnet,php,mysql,sqlite,git,github,vscode,figma,tensorflow,pytorch,opencv,anaconda"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| ☕ Cafe Management System | Desktop application developed using C# Windows Forms. |
+| 🤟 Sign Language Recognition | AI-based project using Machine Learning & Computer Vision. |
+| 🌐 Personal Portfolio | Responsive portfolio website built with HTML, CSS & JavaScript. |
+| 💻 Front-End Projects | Modern UI projects developed using React and Bootstrap. |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jotilohana21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotilohana21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jotilohana21&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jotilohana21&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jotilohana21&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Technology becomes meaningful when it solves real-world problems and creates a positive impact."**
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</p>
