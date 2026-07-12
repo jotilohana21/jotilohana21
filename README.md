@@ -60,7 +60,7 @@ I continuously improve my skills through internships, research programs, certifi
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://youtube.com/@UCEIrv-hhrD53CKqI7iNPeHw">
+<a href="https://youtube.com/@jotilohana-g1e" target="blank">
 <img src="https://skillicons.dev/icons?i=youtube" height="45"/>
 </a>
 </p>
