@@ -41,12 +41,11 @@ I continuously improve my skills through internships, research programs, certifi
 
 # 🏆 Achievements
 
-- 🎓 Computer Science Student
-- 🤖 Machine Learning Engineering Intern
-- 🌍 Selected for International AI & Leadership Programs
-- 📑 Research Enthusiast
-- 🏅 Multiple AI & Technology Certifications
-- 💡 Passionate about Building Real-World Solutions
+- 🎓 **Aspire Leaders Program Alumni** — Harvard-affiliated global leadership cohort
+- 🌍 **General Secretary** — QUEST Students Society
+- 🥈 **2nd Place** — Web Engineering Exhibition, QUEST (BloodBridge project)
+- 📐 **Co-Lead** — MTH Society, QUEST University
+- 🤖 **AILP 2026 Capstone** — Human-AI Recruitment Ethics Research (Score: 9.5/10)
 
 ---
 
@@ -80,12 +79,11 @@ I continuously improve my skills through internships, research programs, certifi
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| ☕ Cafe Management System | Desktop application developed using C# Windows Forms. |
-| 🤟 Sign Language Recognition | AI-based project using Machine Learning & Computer Vision. |
-| 🌐 Personal Portfolio | Responsive portfolio website built with HTML, CSS & JavaScript. |
-| 💻 Front-End Projects | Modern UI projects developed using React and Bootstrap. |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🩸 [BloodBridge](https://github.com/jotilohana21/BloodBridge) | Blood donor management system — 2nd place at QUEST Web Exhibition | PHP, MySQL |
+| ⚡ [PowerCast](https://github.com/jotilohana21/PowerCast-AI-Electricity-Forecasting-Pakistan) | AI-powered electricity load forecasting for Pakistan's national grid | Python, ML, Kaggle |
+| ☕ [Cafe Management System](https://github.com/jotilohana21) | Desktop application for cafe operations management | C#, Windows Forms |
 
 ---
 
