@@ -61,7 +61,7 @@ I continuously improve my skills through internships, research programs, certifi
 </a>
 
 <a href="https://youtube.com/@jotilohana-g1e" target="blank">
-<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35"/>
 </a>
 </p>
 
