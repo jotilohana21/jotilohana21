@@ -1,141 +1,18 @@
-<div align="center">
+# 💫 About Me:
+## 👋 About Me<br><br>I'm a Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, and Front-End Development**. I enjoy building practical solutions that combine clean user experiences with intelligent technologies.<br><br>My experience includes developing web applications, desktop applications, and AI-based projects while continuously expanding my knowledge through internships, research programs, and global learning initiatives. I believe in continuous learning, problem-solving, and applying technology to create meaningful impact.<br><br>### 💡 What I Work With<br><br>* 🤖 Artificial Intelligence & Machine Learning<br>* 🌐 Front-End Development (HTML, CSS, JavaScript, React)<br>* 💻 Python, C#, C++, SQL<br>* 📊 Data Analysis & Research<br>* 🔍 Problem Solving & Software Development<br><br>### 🌱 Currently Exploring<br><br>* Large Language Models (LLMs)<br>* Generative AI<br>* AI-Powered Applications<br>* Research & AI Workflows<br><br>I enjoy collaborating on impactful projects, contributing to open-source initiatives, and continuously improving my technical and problem-solving skills.
 
-<!-- Animated Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Joti%20Lohana&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%7C%20Community%20Builder%20%7C%20Campus%20Leader&descSize=18&descAlignY=60" width="100%"/>
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joti-lohana-6471a62a6/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCEIrv-hhrD53CKqI7iNPeHw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jotilohana789@gmail.com) 
 
----
-
-<div align="center">
-
-### 👩‍💻 3rd Year CS Student @ QUEST, Nawabshah, Pakistan
-### 🌱 Building AI tools that matter • Leading communities that last
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joti%20Lohana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joti-lohana-6471a62a6)
-[![GitHub followers](https://img.shields.io/github/followers/jotilohana21?label=Follow&style=for-the-badge&color=6e40c9)](https://github.com/jotilohana21)
-[![Profile Views](https://komarev.com/ghpvc/?username=jotilohana21&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/jotilohana21)
-
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jotilohana21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jotilohana21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jotilohana21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jotilohana21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-
-```python
-joti = {
-    "name"       : "Joti Lohana",
-    "university" : "QUEST — Quaid-e-Awam University, Nawabshah 🇵🇰",
-    "year"       : "3rd Year CS (Graduating 2027)",
-    "focus"      : ["AI/ML", "Frontend Dev", "Community Building"],
-    "roles"      : [
-        "General Secretary — QUEST Students Society",
-        "Co-Lead — MTH Society",
-        "Founder — InnovateHER (Women in Tech)",
-        "Aspire Leaders Program Alumni (Harvard-affiliated)"
-    ],
-    "currently"  : "Building AI projects + applying for GitHub Campus Expert 👀",
-    "ask_me_about": "AI, open source, campus leadership, or just say hi!"
-}
-```
-
----
-
-## 🧠 Featured Projects
-
-<div align="center">
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| 🌾 **[AgriSense](https://github.com/jotilohana21/AgriSense)** | Crop disease detection using deep learning | Python, CNN, TensorFlow |
-| ⚡ **[PowerCast](https://github.com/jotilohana21/PowerCast)** | Pakistan electricity load forecasting | Python, ML, Kaggle |
-| 🛡️ **[CodeGuard AI](https://github.com/jotilohana21/CodeGuard-AI)** | AI-powered code reviewer with SHAP explainability | XGBoost, Streamlit, SHAP |
-| 🩸 **[BloodBridge](https://github.com/jotilohana21/BloodBridge)** | Blood donor management system | PHP, MySQL |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**AI/ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Highlights
-
-- 🎓 **Aspire Leaders Program** — Harvard Business School-affiliated global cohort
-- 🤖 **AILP 2026 Capstone** — Human-AI Recruitment Ethics (Score: 9.5/10 ⭐)
-- 👩‍💼 **InnovateHER Founder** — Practical skills initiative for women at QUEST
-- 🌍 **General Secretary** — QUEST Students Society
-- 💻 **Frontend Internship** — Arch Technologies + YoungDev Interns + DevelopersHub
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jotilohana21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotilohana21&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jotilohana21&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
----
-
-## 🌱 Currently Working On
-
-- 🔬 Research paper — Multi-model AI for plant disease detection (Pakistani crops focus)
-- 🤖 CodeGuard AI — Adding more ML models + better UI
-- 📚 Preparing for GitHub Campus Expert program
-- 🎯 Internship hunt at top Pakistani tech companies
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-*"Technology is most powerful when it serves the people who need it most."*
-
-**I'm always open to collaborations, open source projects, or just a good tech conversation!**
-
-[![Email](https://img.shields.io/badge/Email-jotilohana789@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jotilohana789@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joti-lohana-6471a62a6)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
