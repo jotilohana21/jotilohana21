@@ -1,15 +1,23 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ========================================================= -->
+<!--                        HERO SECTION                       -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<h1 style="color:#BD5579;">Hi 👋, I'm Joti Lohana</h1>
+<h1>Hi 👋, I'm Joti Lohana</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2800&pause=900&color=BD5579&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Intelligent+%26+Scalable+Applications;Artificial+Intelligence+%7C+Machine+Learning;Turning+Ideas+Into+Real-World+Solutions" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2800&pause=900&color=BD5579&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Intelligent+%26+Scalable+Applications;Artificial+Intelligence+%7C+Machine+Learning;Turning+Ideas+Into+Real-World+Solutions"
+    alt="Typing Animation"
+  />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=jotilohana21&label=PROFILE+VIEWS&color=BD5579&style=for-the-badge" />
+  <img
+    src="https://komarev.com/ghpvc/?username=jotilohana21&label=PROFILE+VIEWS&color=BD5579&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 </div>
@@ -22,7 +30,7 @@ I'm a Computer Science student focused on **Full Stack Development, Artificial I
 
 I enjoy building practical software solutions that combine intelligent technologies with clean, responsive, and user-friendly interfaces. My work spans **AI/ML projects, web applications, desktop applications, data-driven solutions, and research-oriented projects**.
 
-Through internships, leadership programs, technical competitions, research initiatives, and hands-on development, I continuously work on strengthening my problem-solving and engineering skills.
+Through internships, leadership programs, technical competitions, research initiatives, certifications, and hands-on development, I continuously work on strengthening my problem-solving and engineering skills.
 
 I'm particularly interested in **AI-powered applications, Machine Learning, Generative AI, LLMs, and AI research**, while continuing to grow as a full-stack software developer.
 
@@ -30,27 +38,27 @@ I'm particularly interested in **AI-powered applications, Machine Learning, Gene
 
 # 🎯 What I Do
 
-- 🤖 Build **AI & Machine Learning solutions**
+- 🤖 Build **Artificial Intelligence & Machine Learning solutions**
 - 🌐 Develop **responsive full-stack web applications**
 - 🧠 Explore **Generative AI, LLMs, and AI workflows**
 - 📊 Work with **data analysis and machine learning pipelines**
-- 💻 Build software using **Python, C#, C++, JavaScript, and SQL**
+- 💻 Develop software using **Python, C#, C++, JavaScript, and SQL**
 - 🔬 Explore **AI research and real-world problem solving**
-- 🚀 Continuously learn, build, and contribute
+- 🚀 Continuously learn, build, experiment, and improve
 
 ---
 
 # 🏆 Achievements & Leadership
 
-- 🎓 **Computer Science Student** — QUEST
+- 🎓 **Computer Science Student** — Quaid-e-Awam University of Engineering, Science & Technology (QUEST)
 - 🌍 **Aspire Leaders Program Alumni** — Global leadership development program
-- 🏅 **AI-Integrated Leadership Program (AILP)** — Capstone score **9.5/10**
+- 🧠 **AI-Integrated Leadership Program (AILP)** — Capstone score **9.5/10**
 - 🌐 **General Secretary** — QUEST Students Society
 - 📐 **Co-Lead** — MTH Society, QUEST University
 - 🥈 **2nd Place** — Web Engineering Exhibition, QUEST — *BloodBridge*
 - 🤖 **Machine Learning Intern** — FlyRank
-- 🏆 **International AI & Technology Programs Participant**
-- 🔬 **AI Research Enthusiast**
+- 🏅 **ICSC 2026 Qualification Round** — Qualified for the Pre-Final Round
+- 🔬 **AI & Machine Learning Research Enthusiast**
 - 💻 **Multiple Technical Internships & Hands-on Development Experience**
 
 ---
@@ -73,15 +81,15 @@ I'm particularly interested in **AI-powered applications, Machine Learning, Gene
 <p align="center">
 
 <a href="https://www.linkedin.com/in/joti-lohana-6471a62a6/">
-<img src="https://img.shields.io/badge/LinkedIn-%23BD5579?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-%23BD5579?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:jotilohana789@gmail.com">
-<img src="https://img.shields.io/badge/Email-%23BD5579?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-%23BD5579?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://youtube.com/@jotilohana-g1e">
-<img src="https://img.shields.io/badge/YouTube-%23BD5579?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-%23BD5579?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 </p>
@@ -93,40 +101,42 @@ I'm particularly interested in **AI-powered applications, Machine Learning, Gene
 ### 🌐 Frontend & Full Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs" alt="Frontend and Full Stack Technologies"/>
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI and Machine Learning Technologies"/>
 </p>
 
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,php" alt="Programming Languages"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
 </p>
 
 ### 🛠️ Tools & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,anaconda" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,anaconda" alt="Development Tools"/>
 </p>
 
 ### 📊 Data & Visualization
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-%23BD5579?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-%23BD5579?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-%23BD5579?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-%23BD5579?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/NumPy-%23BD5579?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-%23BD5579?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23BD5579?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-%23BD5579?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+
 </p>
 
 ---
@@ -135,7 +145,8 @@ I'm particularly interested in **AI-powered applications, Machine Learning, Gene
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🩸 BloodBridge
 
@@ -146,12 +157,12 @@ Blood donor management system designed to connect blood donors and recipients.
 **Tech:** PHP • MySQL
 
 <a href="https://github.com/jotilohana21/BloodBridge">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-%23BD5579?style=for-the-badge&logo=github&logoColor=white" alt="BloodBridge Repository"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ PowerCast
 
@@ -160,14 +171,16 @@ AI-powered electricity load forecasting project focused on predicting electricit
 **Tech:** Python • Machine Learning • Kaggle
 
 <a href="https://github.com/jotilohana21/PowerCast-AI-Electricity-Forecasting-Pakistan">
-View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-%23BD5579?style=for-the-badge&logo=github&logoColor=white" alt="PowerCast Repository"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### ☕ Cafe Management System
 
@@ -177,15 +190,16 @@ Desktop-based cafe management application developed using C# Windows Forms.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤟 Sign Language Recognition
+### 🌐 Front-End Projects
 
-Machine learning and computer vision based project for recognizing sign language using pose and hand-related data.
+Modern responsive web interfaces and applications built using HTML, CSS, JavaScript, Bootstrap, React, and modern UI technologies.
 
-**Tech:** Python • Machine Learning • Computer Vision
+**Tech:** HTML • CSS • JavaScript • React • Bootstrap
 
 </td>
+
 </tr>
 </table>
 
@@ -195,9 +209,11 @@ Machine learning and computer vision based project for recognizing sign language
 
 <p align="center">
 
-`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Generative AI`  
-`LLMs` • `AI Research` • `Full Stack Development` • `Computer Vision`  
-`Data Analysis` • `Software Engineering` • `Problem Solving`
+`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Generative AI`
+
+`Large Language Models` • `AI Research` • `Full Stack Development` • `Computer Vision`
+
+`Data Analysis` • `Software Engineering` • `Problem Solving` • `AI-Powered Applications`
 
 </p>
 
@@ -207,15 +223,27 @@ Machine learning and computer vision based project for recognizing sign language
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jotilohana21&show_icons=true&hide_border=true&bg_color=000000&title_color=FFDADA&icon_color=BD5579&text_color=FFDADA&include_all_commits=true&count_private=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=jotilohana21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFDADA&text_color=FFDADA&icon_color=BD5579"
+  height="180"
+  alt="Joti's GitHub Stats"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotilohana21&layout=compact&hide_border=true&bg_color=000000&title_color=FFDADA&text_color=FFDADA&langs_count=8"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotilohana21&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFDADA&text_color=FFDADA"
+  height="180"
+  alt="Joti's Top Languages"
+/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jotilohana21&hide_border=true&background=000000&ring=BD5579&fire=FFDADA&currStreakLabel=FFDADA&sideLabels=FFDADA&currStreakNum=FFDADA&sideNums=FFDADA&dates=BD5579"/>
+<img
+  src="https://streak-stats.demolab.com/?user=jotilohana21&hide_border=true&background=000000&ring=BD5579&fire=FFDADA&currStreakLabel=FFDADA&sideLabels=FFDADA&currStreakNum=FFDADA&sideNums=FFDADA&dates=BD5579"
+  width="70%"
+  alt="Joti's GitHub Streak"
+/>
 
 </p>
 
@@ -225,7 +253,10 @@ Machine learning and computer vision based project for recognizing sign language
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jotilohana21&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=jotilohana21&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"
+  alt="GitHub Trophies"
+/>
 
 </p>
 
@@ -235,7 +266,11 @@ Machine learning and computer vision based project for recognizing sign language
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jotilohana21&bg_color=000000&color=FFDADA&line=BD5579&point=FFDADA&area=true&hide_border=true"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jotilohana21&bg_color=000000&color=FFDADA&line=BD5579&point=FFDADA&area=true&hide_border=true"
+  width="95%"
+  alt="Joti's Contribution Graph"
+/>
 
 </p>
 
@@ -245,7 +280,10 @@ Machine learning and computer vision based project for recognizing sign language
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/jotilohana21/jotilohana21/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/jotilohana21/jotilohana21/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </p>
 
@@ -255,13 +293,12 @@ Machine learning and computer vision based project for recognizing sign language
 
 <p align="center">
 
-<strong>
-Build. Learn. Experiment. Improve. Repeat.
-</strong>
+<strong>Build. Learn. Experiment. Improve. Repeat.</strong>
 
 <br><br>
 
-Technology becomes meaningful when we use it to solve real-world problems and create positive impact.
+Technology becomes meaningful when we use it to solve real-world problems
+and create positive impact.
 
 </p>
 
@@ -269,8 +306,13 @@ Technology becomes meaningful when we use it to solve real-world problems and cr
 
 <p align="center">
 
-### 💗 Thanks for visiting my profile!
+<img
+  src="https://img.shields.io/badge/Let's%20Build%20Something%20Great-%23BD5579?style=for-the-badge&logo=github&logoColor=white"
+  alt="Let's Build Something Great"
+/>
 
-<img src="https://img.shields.io/badge/Let's%20Build%20Something%20Great-%23BD5579?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+
+<strong>Thanks for visiting my profile! ⭐</strong>
 
 </p>
