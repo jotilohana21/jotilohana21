@@ -1,0 +1,42 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          username: ${{ github.repository_owner }}
+          theme: dark
+          output: github-stats.svg
+
+      - name: Generate Top Languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          username: ${{ github.repository_owner }}
+          layout: compact
+          theme: dark
+          output: top-langs.svg
+
+      - name: Commit generated cards
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg top-langs.svg
+          git diff --cached --quiet || git commit -m "Update GitHub stats"
+          git push
