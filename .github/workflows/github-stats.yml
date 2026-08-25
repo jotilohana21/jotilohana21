@@ -14,29 +14,28 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          username: ${{ github.repository_owner }}
-          theme: dark
-          output: github-stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=000000&title_color=FFDADA&text_color=FFDADA&icon_color=BD5579&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          username: ${{ github.repository_owner }}
-          layout: compact
-          theme: dark
-          output: top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=000000&title_color=FFDADA&text_color=FFDADA&icon_color=BD5579&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-stats.svg top-langs.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
           git diff --cached --quiet || git commit -m "Update GitHub stats"
           git push
