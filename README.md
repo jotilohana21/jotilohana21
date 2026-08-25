@@ -222,42 +222,11 @@ Modern responsive web interfaces and applications built using HTML, CSS, JavaScr
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=jotilohana21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFDADA&text_color=FFDADA&icon_color=BD5579"
-  height="180"
-  alt="Joti's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotilohana21&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFDADA&text_color=FFDADA"
-  height="180"
-  alt="Joti's Top Languages"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=jotilohana21&hide_border=true&background=000000&ring=BD5579&fire=FFDADA&currStreakLabel=FFDADA&sideLabels=FFDADA&currStreakNum=FFDADA&sideNums=FFDADA&dates=BD5579"
-  width="70%"
-  alt="Joti's GitHub Streak"
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=jotilohana21&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"
-  alt="GitHub Trophies"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jotilohana21&show_icons=true&hide_border=true&bg_color=000000&title_color=FFDADA&text_color=FFDADA&icon_color=BD5579"
+    height="180"
+    alt="Joti's GitHub Stats"
+  />
 </p>
 
 ---
@@ -265,13 +234,11 @@ Modern responsive web interfaces and applications built using HTML, CSS, JavaScr
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jotilohana21&bg_color=000000&color=FFDADA&line=BD5579&point=FFDADA&area=true&hide_border=true"
-  width="95%"
-  alt="Joti's Contribution Graph"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jotilohana21&bg_color=000000&color=FFDADA&line=BD5579&point=FFDADA&area=true&hide_border=true"
+    width="95%"
+    alt="Joti's Contribution Graph"
+  />
 </p>
 
 ---
@@ -279,14 +246,11 @@ Modern responsive web interfaces and applications built using HTML, CSS, JavaScr
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/jotilohana21/jotilohana21/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/jotilohana21/jotilohana21/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
 ---
 
 # 💭 Developer Mindset
