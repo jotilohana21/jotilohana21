@@ -222,24 +222,27 @@ Modern responsive web interfaces and applications built using HTML, CSS, JavaScr
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jotilohana21&show_icons=true&hide_border=true&bg_color=000000&title_color=FFDADA&text_color=FFDADA&icon_color=BD5579"
-    height="180"
-    alt="Joti's GitHub Stats"
-  />
+
+<img
+  src="./github-stats.svg"
+  height="180"
+  alt="Joti's GitHub Stats"
+/>
+
+<img
+  src="./top-langs.svg"
+  height="180"
+  alt="Joti's Top Languages"
+/>
+
 </p>
+
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jotilohana21&bg_color=000000&color=FFDADA&line=BD5579&point=FFDADA&area=true&hide_border=true"
-    width="95%"
-    alt="Joti's Contribution Graph"
-  />
-</p>
+You can explore my latest contributions, repositories, and development activity directly through my GitHub profile.
 
 ---
 
