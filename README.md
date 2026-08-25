@@ -224,13 +224,13 @@ Modern responsive web interfaces and applications built using HTML, CSS, JavaScr
 <p align="center">
 
 <img
-  src="./github-stats.svg"
+  src="./profile/stats.svg"
   height="180"
   alt="Joti's GitHub Stats"
 />
 
 <img
-  src="./top-langs.svg"
+  src="./profile/top-langs.svg"
   height="180"
   alt="Joti's Top Languages"
 />
