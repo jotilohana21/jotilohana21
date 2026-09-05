@@ -73,6 +73,7 @@ I'm particularly interested in **AI-powered applications, Machine Learning, Gene
 - 🌐 Full Stack Development
 - 📊 Data Analysis & Visualization
 - 🚀 AI-Powered Applications
+- 🔐 Cybersecurity Fundamentals
 
 ---
 
