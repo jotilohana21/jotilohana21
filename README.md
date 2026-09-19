@@ -93,6 +93,10 @@ I'm particularly interested in **AI-powered applications, Machine Learning, Gene
 <img src="https://img.shields.io/badge/YouTube-%23BD5579?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
+<a href="https://www.kaggle.com/jotilohana">
+<img src="https://img.shields.io/badge/Kaggle-%23BD5579?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
 </p>
 
 ---
